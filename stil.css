@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: darkolivegreen;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;	
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;  
+}
+.paragraf_2{color: darkcyan; background-color: rgba (250, 250, 250, 0.5);
+	.novi_blok {
+		background-color: rgba (250, 250, 250, 0.5);
+		padding:20px;
+		margin: 20px;
+		width:50%;
+	}
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: cadetblue; 	
+}s
+
+span {color: RGB(250, 0, 250);}
+.pozadina {
+	 background-image: url(https://www.google.com/search?q=android+background&sxsrf=ALeKk02himOOofeXIZH9JyAwkLQsQ2Sz2g:1622752210470&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjl3cCIp_zwAhXIpYsKHYP2BYcQ_AUoAXoECAEQAw&biw=1777&bih=813#imgrc=p3tVy4HKajcYTM);
+	 background-color: darkcyan;
+}
+.drugapozadina {
+	background-color: darkgray;
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+a:hover{ 
+	background-color: darkgray;
+}
+img {
+	height: 400px;
+}
